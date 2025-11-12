@@ -6,9 +6,9 @@
 
 <br>
 
-# Nome do projeto
+# Curso Inteligencia Articicial - Fase 3 - Cap 1 - Etapas de uma Máquina Agrícola
 
-## Nome do grupo
+
 
 ## 👨‍🎓 Integrantes: 
 ##Integrantes:
@@ -26,7 +26,8 @@
 
 ## 📜 Descrição
 
-*Descreva seu projeto com base no texto do PBL (até 600 palavras)*
+Esse projeto tem como objetivo a importação de dados no SGBD  SqlDeveloper da Oracle, demonstrando a consulta e maniipulação dos dados simulados de sensores agriculas.
+Foi feito a importação de dados de um arquivo .csv e após isso consultado pelo programa da Oracle e manipulado por um codigo python para uma consulta apartir de um periodo pré estabelecido e algumas analises graficas.
 
 
 ## 📁 Estrutura de pastas
