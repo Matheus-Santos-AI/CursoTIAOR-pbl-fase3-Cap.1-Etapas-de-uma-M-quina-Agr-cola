@@ -11,18 +11,18 @@
 ## Nome do grupo
 
 ## 👨‍🎓 Integrantes: 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 1</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 2</a>
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 3</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 4</a> 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do integrante 5</a>
+##Integrantes:
+- Matheus de S. Santos Rm566901
+- Ricardo José Amorin Rm567312
+- Klaus Lohany Barbosa de Oliveira
+- Victor Oliveira Fedeli Tate Rm566823
+- Paulo Roberto Silva Amaral Ribeiro Junior Rm568413
 
 ## 👩‍🏫 Professores:
 ### Tutor(a) 
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Tutor</a>
+- Ana Cristina 
 ### Coordenador(a)
-- <a href="https://www.linkedin.com/company/inova-fusca">Nome do Coordenador</a>
-
+- Andre Godoi
 
 ## 📜 Descrição
 
