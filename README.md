@@ -26,8 +26,9 @@
 
 ## 📜 Descrição
 
-Esse projeto tem como objetivo a importação de dados no SGBD  SqlDeveloper da Oracle, demonstrando a consulta e maniipulação dos dados simulados de sensores agriculas.
+Esse projeto tem como objetivo a importação de dados no SGBD  SQL Developer da Oracle, demonstrando a consulta e manipulação dos dados simulados de sensores agriculas.
 Foi feito a importação de dados de um arquivo .csv e após isso consultado pelo programa da Oracle e manipulado por um codigo python para uma consulta apartir de um periodo pré estabelecido e algumas analises graficas.
+O codigo python tem por função capturar todos os dados do periodo selecionado e atraves de graficos associar a irrigação ao Ph do solo e a umidade.
 
 
 ## 📁 Estrutura de pastas
@@ -64,27 +65,51 @@ Foi feito a importação de dados de um arquivo .csv e após isso consultado pel
 
 ## Confirmação dos tipos de dados.
 <p align="center">
-<a href= "https://www.fiap.com.br/"><img src="assets/TIPOS DOS DADOS.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=1000% height=60%></a>
+<a href= "https://www.fiap.com.br/"><img src="assets/TIPOS DOS DADOS.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=100% height=60%></a>
 </p>
-## 🔧 Como executar o código
 
-*Acrescentar as informações necessárias sobre pré-requisitos (IDEs, serviços, bibliotecas etc.) e instalação básica do projeto, descrevendo eventuais versões utilizadas. Colocar um passo a passo de como o leitor pode baixar o seu código e executá-lo a partir de sua máquina ou seu repositório. Considere a explicação organizada em fase.*
+### 🔧 Codigo Python Funcionando
+
+## Menu
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/py1.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=100% height=60%></a>
+</p>
+
+## Opção escolhida 1 : Preenchendo o periodo de consulta
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/py2.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=100% height=60%></a>
+</p>
+
+## Resultado da consulta : todos os dados do periodo
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/py3.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=100% height=60%></a>
+</p>
+
+## Opção escolhida 2 : Preenchendo o periodo de consulta e horarios de irrigação
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/py4.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=100% height=60%></a>
+</p>
+
+## Resultados das medias de cada elemento no periodo selecionado e produção de graficos.
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/py5.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=100% height=60%></a>
+</p>
+
+## Grafico 2
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/py6.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=100% height=60%></a>
+</p>
+
+## Grafico 3
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/py7.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=100% height=60%></a>
+</p>
 
 
 ## 🗃 Histórico de lançamentos
 
-* 0.5.0 - XX/XX/2024
-    * 
-* 0.4.0 - XX/XX/2024
-    * 
-* 0.3.0 - XX/XX/2024
-    * 
-* 0.2.0 - XX/XX/2024
-    * 
-* 0.1.0 - XX/XX/2024
+* 1.0 - 12./11./2025
+
     *
 
-## 📋 Licença
-
-<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1"><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/by.svg?ref=chooser-v1"><p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/"><a property="dct:title" rel="cc:attributionURL" href="https://github.com/agodoi/template">MODELO GIT FIAP</a> por <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://fiap.com.br">Fiap</a> está licenciado sobre <a href="http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">Attribution 4.0 International</a>.</p>
 
