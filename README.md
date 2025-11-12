@@ -105,6 +105,8 @@ O codigo python tem por função capturar todos os dados do periodo selecionado 
 <a href= "https://www.fiap.com.br/"><img src="assets/py7.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=100% height=60%></a>
 </p>
 
+## Video do Funcionamento 
+- https://youtu.be/hAtqbNv9iOg
 
 ## 🗃 Histórico de lançamentos
 
