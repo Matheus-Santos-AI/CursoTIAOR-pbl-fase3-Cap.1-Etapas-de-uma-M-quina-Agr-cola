@@ -62,6 +62,9 @@ O codigo python tem por função capturar todos os dados do periodo selecionado 
 <p align="center">
 <a href= "https://www.fiap.com.br/"><img src="assets/EXIBINDO DADOS NO SLQ.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=100% height=60%></a>
 </p>
+<p align="center">
+<a href= "https://www.fiap.com.br/"><img src="assets/6.png" alt="FIAP - Faculdade de Informática e Admnistração Paulista" border="0" width=100% height=60%></a>
+</p>
 
 ## Confirmação dos tipos de dados.
 <p align="center">
